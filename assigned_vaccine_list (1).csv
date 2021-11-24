@@ -1,0 +1,173 @@
+vaccine_id,citizen_id,vaccine_type,vaccine_date,vaccine_place,amdministering_doc
+479,2,Moderna (CX-024414),2021-05-26,Danbury,Rowan PARKER M.D.
+226,2,Johnson and Johnson (JNJ-78436735),2021-01-30,Waverly,Michelle MYERS M.D.
+113,2,AstraZeneca (AZD1222),2021-07-07,Clyde,Michael JUAREZ M.D.
+395,3,AstraZeneca (AZD1222),2021-01-25,Armada,Luna CONTRERAS M.D.
+44,3,Pfizer-BioNTech (BNT162b2),2021-09-06,La Conner,Daisy ACOSTA M.D.
+69,6,Moderna (CX-024414),2021-09-11,Rockaway Beach,Robyn ERICKSON M.D.
+453,6,Pfizer-BioNTech (BNT162b2),2021-04-26,Burney,Joanna MALONE M.D.
+210,7,Pfizer-BioNTech (BNT162b2),2021-01-15,Chester,Jade WALLER M.D.
+47,9,Pfizer-BioNTech (BNT162b2),2021-08-19,Becker,Ellie VAUGHAN M.D.
+445,10,Moderna (CX-024414),2021-07-03,Troy,Leo WHEELER M.D.
+145,11,Johnson and Johnson (JNJ-78436735),2021-11-18,Bellevue,Adam MCKAY M.D.
+107,11,Johnson and Johnson (JNJ-78436735),2021-02-04,Yaphank,Isaac SAMPSON M.D.
+440,12,Pfizer-BioNTech (BNT162b2),2021-11-15,Hoopeston,Brandon SNOW M.D.
+437,12,Pfizer-BioNTech (BNT162b2),2021-03-24,Cleveland,Finn CANTRELL M.D.
+34,12,Moderna (CX-024414),2021-08-04,Newell,Charlie HOLMES M.D.
+259,14,Johnson and Johnson (JNJ-78436735),2021-03-13,Rio,Rebecca HENDRIX M.D.
+271,14,Moderna (CX-024414),2021-05-29,Huntington,Mirren MOSLEY M.D.
+392,17,Johnson and Johnson (JNJ-78436735),2021-07-01,Netcong,Barry SHELTON M.D.
+308,18,AstraZeneca (AZD1222),2021-06-04,Centerville,William GOOD M.D.
+93,18,AstraZeneca (AZD1222),2021-11-05,Albers,Morgan CHANDLER M.D.
+340,18,Pfizer-BioNTech (BNT162b2),2021-01-17,Cedar Grove,Connor BOYD M.D.
+41,20,Moderna (CX-024414),2021-09-26,Seabrook Island,Ewan MORTON M.D.
+438,21,Pfizer-BioNTech (BNT162b2),2021-07-08,Burnside,Matilda LAM M.D.
+462,22,Pfizer-BioNTech (BNT162b2),2021-07-03,Thornport,Jake OLSEN M.D.
+235,24,AstraZeneca (AZD1222),2021-03-12,Coleman,Ella FORD M.D.
+256,24,Johnson and Johnson (JNJ-78436735),2021-01-24,Des Moines,Thea GRAHAM M.D.
+213,26,Johnson and Johnson (JNJ-78436735),2021-04-22,Grundy,Julie RIVAS M.D.
+366,26,Pfizer-BioNTech (BNT162b2),2021-08-07,Darlington,Carolyn BRADY M.D.
+38,27,Pfizer-BioNTech (BNT162b2),2021-11-01,Radcliffe,Charlie GARNER M.D.
+369,30,Pfizer-BioNTech (BNT162b2),2021-05-27,Tutuilla,Tracy OLSEN M.D.
+137,31,Johnson and Johnson (JNJ-78436735),2021-04-05,Ellport,Evelyn ELLIOTT M.D.
+102,31,AstraZeneca (AZD1222),2021-11-09,Planada,Julie HAHN M.D.
+321,31,Pfizer-BioNTech (BNT162b2),2021-07-04,Rustburg,Victoria RICE M.D.
+337,32,Moderna (CX-024414),2021-02-15,Thomaston,Marie BERNARD M.D.
+282,33,Pfizer-BioNTech (BNT162b2),2021-07-30,Volin,Ada ACEVEDO M.D.
+370,33,Johnson and Johnson (JNJ-78436735),2021-08-05,Jonestown,John PRESTON M.D.
+491,34,Pfizer-BioNTech (BNT162b2),2021-09-23,Pekin,Eve CANTU M.D.
+323,34,Pfizer-BioNTech (BNT162b2),2021-09-28,Glenview Hills,Caitlin HARRISON M.D.
+380,36,Pfizer-BioNTech (BNT162b2),2021-10-14,Waynesville,Douglas RIVERA M.D.
+173,36,Moderna (CX-024414),2021-10-05,Carrollton,Sophie SANTOS M.D.
+48,37,Johnson and Johnson (JNJ-78436735),2021-07-02,Rossmoyne,Lilly BARTLETT M.D.
+270,39,Johnson and Johnson (JNJ-78436735),2021-04-23,Bowling Green,Debbie STEPHENS M.D.
+97,39,AstraZeneca (AZD1222),2021-02-25,Limestone,Finley AVERY M.D.
+212,40,Moderna (CX-024414),2021-01-28,Petersburg,Kara CRAIG M.D.
+238,40,Pfizer-BioNTech (BNT162b2),2021-02-07,North Lindenhurst,Madison HARTMAN M.D.
+244,42,AstraZeneca (AZD1222),2021-06-22,Shawsville,Josh SALAS M.D.
+90,42,AstraZeneca (AZD1222),2021-03-29,Redmon,Mitchell GALINDO M.D.
+241,43,Johnson and Johnson (JNJ-78436735),2021-06-11,Loretto,Brian STEVENS M.D.
+288,43,Moderna (CX-024414),2021-03-05,Manitou,Morgan WYATT M.D.
+222,44,AstraZeneca (AZD1222),2021-02-23,Middletown,Harley PRINCE M.D.
+389,44,Pfizer-BioNTech (BNT162b2),2021-05-12,Valley,Duncan CRAWFORD M.D.
+339,44,AstraZeneca (AZD1222),2021-05-17,Woodland,Finn MAHONEY M.D.
+223,46,Johnson and Johnson (JNJ-78436735),2021-01-21,Emerald Isle,Luca MALONE M.D.
+343,47,AstraZeneca (AZD1222),2021-01-01,Whiskey Creek,Elizabeth WATTS M.D.
+446,47,Moderna (CX-024414),2021-02-24,Hampton,Steven HARRELL M.D.
+156,48,Pfizer-BioNTech (BNT162b2),2021-06-09,Walker,Ruaridh BUSH M.D.
+230,48,Johnson and Johnson (JNJ-78436735),2021-06-12,North Syracuse,Libby MAY M.D.
+142,50,AstraZeneca (AZD1222),2021-02-24,Dickson,Lottie STOUT M.D.
+379,50,Pfizer-BioNTech (BNT162b2),2021-09-29,Scotts Valley,Scott BRADLEY M.D.
+322,50,AstraZeneca (AZD1222),2021-04-03,Kingston,Lexi MCLAUGHLIN M.D.
+480,51,Moderna (CX-024414),2021-03-26,Eatonville,Florence VINCENT M.D.
+170,51,Pfizer-BioNTech (BNT162b2),2021-09-18,Independence,Emily HOWARD M.D.
+153,52,Johnson and Johnson (JNJ-78436735),2021-04-12,Dodge,Clare MARSHALL M.D.
+432,52,AstraZeneca (AZD1222),2021-03-24,Río Grande,Reece HAMPTON M.D.
+467,52,Johnson and Johnson (JNJ-78436735),2021-06-09,Claxton,Miley SANCHEZ M.D.
+72,53,Pfizer-BioNTech (BNT162b2),2021-09-06,Cushman,Hayden GAINES M.D.
+116,53,Pfizer-BioNTech (BNT162b2),2021-01-22,Grover,Riley MOORE M.D.
+36,53,AstraZeneca (AZD1222),2021-07-08,Markleville,Duncan WINTERS M.D.
+405,54,AstraZeneca (AZD1222),2021-03-02,Lasker,Ailsa JACKSON M.D.
+411,54,Pfizer-BioNTech (BNT162b2),2021-07-20,Gordon,Cooper FELIX M.D.
+201,54,Moderna (CX-024414),2021-09-05,South San Francisco,Caitlin SNOW M.D.
+22,55,Moderna (CX-024414),2021-10-01,Leslie,Skye SOLIS M.D.
+123,56,Johnson and Johnson (JNJ-78436735),2021-04-09,South Mills,Charlie BECKER M.D.
+435,57,Johnson and Johnson (JNJ-78436735),2021-10-14,Apple Creek,Edward DORSEY M.D.
+398,57,Moderna (CX-024414),2021-07-09,La Grange,Lyndsey OWEN M.D.
+117,57,Pfizer-BioNTech (BNT162b2),2021-05-14,Federal Way,Norman RAMSEY M.D.
+209,58,AstraZeneca (AZD1222),2021-08-18,Alleman,Millie SALGADO M.D.
+468,59,Johnson and Johnson (JNJ-78436735),2021-05-18,Hymera,Jude SCHNEIDER M.D.
+197,59,Moderna (CX-024414),2021-06-12,Tornado,Janet ACEVEDO M.D.
+449,60,Pfizer-BioNTech (BNT162b2),2021-07-02,Deal,Donna CLARKE M.D.
+214,60,Moderna (CX-024414),2021-10-23,Sugarloaf Village,Elliot ARELLANO M.D.
+463,60,AstraZeneca (AZD1222),2021-09-03,Fair Lawn,Morgan BARRETT M.D.
+52,61,Johnson and Johnson (JNJ-78436735),2021-03-21,Gracey,Mitchell FOLEY M.D.
+459,61,Moderna (CX-024414),2021-10-06,Sharptown,Mackenzie NICHOLS M.D.
+198,62,Moderna (CX-024414),2021-06-28,Griffith,Lena KIM M.D.
+87,62,AstraZeneca (AZD1222),2021-07-30,East Marion,Elizabeth CARPENTER M.D.
+372,64,AstraZeneca (AZD1222),2021-10-04,Lowell,Phoebe GUERRERO M.D.
+193,65,Moderna (CX-024414),2021-04-29,Leshara,Lexi KENT M.D.
+118,66,Moderna (CX-024414),2021-11-08,Los Indios,Caitlyn SINGLETON M.D.
+347,66,Pfizer-BioNTech (BNT162b2),2021-10-24,Mildred,Linda WANG M.D.
+215,67,Pfizer-BioNTech (BNT162b2),2021-09-20,Jesup,Catriona JACKSON M.D.
+180,67,Moderna (CX-024414),2021-05-22,Jefferson City,James MOSS M.D.
+53,68,AstraZeneca (AZD1222),2021-11-02,Stone Creek,Nina SINGH M.D.
+497,68,Moderna (CX-024414),2021-06-16,Neahkahnie,Ruth CHANDLER M.D.
+481,68,Pfizer-BioNTech (BNT162b2),2021-08-30,Reminderville,Ben CROSS M.D.
+106,69,Johnson and Johnson (JNJ-78436735),2021-11-21,Orocovis,Rory PINEDA M.D.
+397,69,Moderna (CX-024414),2021-09-05,Clyde Hill,Jonathan ROBERTSON M.D.
+99,69,Johnson and Johnson (JNJ-78436735),2021-01-17,Menands,Ruby MCINTYRE M.D.
+221,72,Johnson and Johnson (JNJ-78436735),2021-06-29,Cold Bay,Calvin SALINAS M.D.
+126,72,AstraZeneca (AZD1222),2021-04-15,Offerle,Angus COLLINS M.D.
+394,74,Pfizer-BioNTech (BNT162b2),2021-05-16,Alanson,John PALMER M.D.
+473,76,Pfizer-BioNTech (BNT162b2),2021-01-21,Amery,Jay POOLE M.D.
+37,78,Johnson and Johnson (JNJ-78436735),2021-08-12,Simms,Reuben HERMAN M.D.
+483,78,Pfizer-BioNTech (BNT162b2),2021-06-06,Waynetown,Abigail CERVANTES M.D.
+295,79,AstraZeneca (AZD1222),2021-08-17,Lebanon,Shannon MCCONNELL M.D.
+91,79,Pfizer-BioNTech (BNT162b2),2021-06-26,The Highlands,Olivia PRATT M.D.
+5,82,Moderna (CX-024414),2021-10-03,Wahak Hotrontk,Rebekah ROSARIO M.D.
+110,82,Johnson and Johnson (JNJ-78436735),2021-06-18,Lansing,Alexis WALTON M.D.
+431,84,Johnson and Johnson (JNJ-78436735),2021-09-17,Noel,Kiera ARNOLD M.D.
+457,85,AstraZeneca (AZD1222),2021-01-12,Canadohta Lake,Gerard MORAN M.D.
+475,85,Pfizer-BioNTech (BNT162b2),2021-03-29,Brownsville,Lennon PADILLA M.D.
+182,85,AstraZeneca (AZD1222),2021-10-23,Arab,Michael WILKINSON M.D.
+189,86,Moderna (CX-024414),2021-08-27,Vandalia,Maureen SANTIAGO M.D.
+310,86,AstraZeneca (AZD1222),2021-10-28,Holcomb,Marion WISE M.D.
+240,86,Johnson and Johnson (JNJ-78436735),2021-02-28,Gaylord,Alasdair CROSBY M.D.
+359,87,Moderna (CX-024414),2021-03-04,Lake Ronkonkoma,Roman BULLOCK M.D.
+408,87,Moderna (CX-024414),2021-03-07,Williamsburg,Adrian LYONS M.D.
+427,87,Moderna (CX-024414),2021-07-27,Bethany,Patrick ZIMMERMAN M.D.
+458,88,AstraZeneca (AZD1222),2021-09-17,Adelanto,Iona DIAZ M.D.
+393,89,Johnson and Johnson (JNJ-78436735),2021-03-30,Brownton,James SPEARS M.D.
+78,89,AstraZeneca (AZD1222),2021-04-04,North Las Vegas,Samantha WALL M.D.
+211,91,AstraZeneca (AZD1222),2021-04-11,Neponset,Aila FULLER M.D.
+21,91,Pfizer-BioNTech (BNT162b2),2021-01-25,Malmo,Janet WALTERS M.D.
+294,91,AstraZeneca (AZD1222),2021-04-26,East Foothills,Lola ROGERS M.D.
+373,92,Johnson and Johnson (JNJ-78436735),2021-04-19,Enterprise,Olivia WINTERS M.D.
+30,92,Pfizer-BioNTech (BNT162b2),2021-10-27,Scotland,Ross KRAMER M.D.
+246,92,AstraZeneca (AZD1222),2021-10-05,Northwest Stanwood,Jamie MALONE M.D.
+146,94,Johnson and Johnson (JNJ-78436735),2021-01-11,Barker Heights,Barrie DICKERSON M.D.
+494,94,AstraZeneca (AZD1222),2021-11-04,Mount Airy,Lola WELLS M.D.
+348,95,Johnson and Johnson (JNJ-78436735),2021-09-20,Blue Eye,Kaitlin PATTON M.D.
+111,96,AstraZeneca (AZD1222),2021-05-17,Promise City,Rhys WINTERS M.D.
+188,97,Johnson and Johnson (JNJ-78436735),2021-04-12,North Haledon,Eden RAMOS M.D.
+478,98,AstraZeneca (AZD1222),2021-11-09,Sweet Water,Matthew BENDER M.D.
+66,98,Johnson and Johnson (JNJ-78436735),2021-08-21,Fall City,Kelsey BRIDGES M.D.
+290,99,Pfizer-BioNTech (BNT162b2),2021-06-25,Kit Carson,Kirsteen HAWKINS M.D.
+391,99,Johnson and Johnson (JNJ-78436735),2021-11-06,Redgranite,Amy PONCE M.D.
+361,99,Johnson and Johnson (JNJ-78436735),2021-11-04,Medaryville,Cody HARDIN M.D.
+165,100,Johnson and Johnson (JNJ-78436735),2021-02-15,Mexico,Caitlyn CALDWELL M.D.
+455,102,Johnson and Johnson (JNJ-78436735),2021-04-30,Holy Cross,Kim LEWIS M.D.
+232,102,Moderna (CX-024414),2021-11-11,Middleburg,Kylie LYNN M.D.
+303,102,Pfizer-BioNTech (BNT162b2),2021-10-24,Harrells,Chelsea ZUNIGA M.D.
+57,103,Pfizer-BioNTech (BNT162b2),2021-06-02,Elberta,Wesley PARSONS M.D.
+218,103,AstraZeneca (AZD1222),2021-09-30,Schlater,Jonathan ROSALES M.D.
+355,103,Johnson and Johnson (JNJ-78436735),2021-02-12,Farmington,Grace HORN M.D.
+237,104,Johnson and Johnson (JNJ-78436735),2021-03-28,Chicopee,Ayla BAXTER M.D.
+115,104,Johnson and Johnson (JNJ-78436735),2021-10-18,Kennard,Leo NEAL M.D.
+460,106,Moderna (CX-024414),2021-02-18,Cedar Vale,Francis PHAM M.D.
+32,106,Johnson and Johnson (JNJ-78436735),2021-08-29,Tumbling Shoals,Joey COFFEY M.D.
+420,106,Johnson and Johnson (JNJ-78436735),2021-04-06,West University Place,Peter POTTS M.D.
+315,107,Moderna (CX-024414),2021-07-10,Winslow,Jake BARNETT M.D.
+164,108,Johnson and Johnson (JNJ-78436735),2021-04-01,Cave,Caitlyn ODOM M.D.
+428,108,Pfizer-BioNTech (BNT162b2),2021-01-15,Lake Panorama,Jon WARD M.D.
+415,108,Pfizer-BioNTech (BNT162b2),2021-04-05,Marion Center,Roderick YATES M.D.
+160,109,Johnson and Johnson (JNJ-78436735),2021-10-01,Harrisville,Hayden BARRON M.D.
+336,109,AstraZeneca (AZD1222),2021-10-30,Wheaton,Gerald COCHRAN M.D.
+488,109,Moderna (CX-024414),2021-11-16,Winneconne,Alasdair CLAYTON M.D.
+285,111,Johnson and Johnson (JNJ-78436735),2021-06-01,Macy,Jacob LOPEZ M.D.
+24,112,Pfizer-BioNTech (BNT162b2),2021-06-19,Sunburst,Louise RICHARD M.D.
+434,113,AstraZeneca (AZD1222),2021-01-02,Chief Lake,Dylan MELENDEZ M.D.
+3,113,Pfizer-BioNTech (BNT162b2),2021-02-15,Fithian,Elsie BALLARD M.D.
+344,115,Johnson and Johnson (JNJ-78436735),2021-05-16,Edgemont,Molly ROMAN M.D.
+70,115,AstraZeneca (AZD1222),2021-10-12,Smithfield,Alex PALACIOS M.D.
+6,115,Johnson and Johnson (JNJ-78436735),2021-08-27,Elgin,Barrie SNOW M.D.
+43,116,Johnson and Johnson (JNJ-78436735),2021-06-05,Wood River,Samuel CORDOVA M.D.
+260,116,AstraZeneca (AZD1222),2021-03-15,Rankin,Frank ALEXANDER M.D.
+71,117,Moderna (CX-024414),2021-08-01,Columbus,Keir MUNOZ M.D.
+498,118,Johnson and Johnson (JNJ-78436735),2021-07-04,Cameron,Finley WEBER M.D.
+388,118,Moderna (CX-024414),2021-02-15,Streeter,Naomi SANTOS M.D.
+11,118,Johnson and Johnson (JNJ-78436735),2021-03-24,Palmer,Kyle SANCHEZ M.D.
+298,120,Johnson and Johnson (JNJ-78436735),2021-03-03,Evanston,Euan SHELTON M.D.
+316,120,Johnson and Johnson (JNJ-78436735),2021-06-14,Youngsville,Nicolle SHANNON M.D.
+293,121,Johnson and Johnson (JNJ-78436735),2021-11-04,Evansville,Nathan MALONE M.D.

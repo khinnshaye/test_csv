@@ -1,15 +1,38 @@
 branch_id,employer_id,street_n,street_name,city,open_to_public
-2,5,20,EDITH ST,Citrus Park,0
-3,5,188,PENNY LN,Hopewell Junction,0
-4,5,134,BITTING AVE,Jamaica Beach,0
-5,5,10,HEALY AVE,Harriston,0
-6,5,1,MAHAN ST,Montoursville,0
-7,5,196,CORA ST,South Wallins,0
-8,5,35,WHIPPLE ST,Vayas,0
-9,5,29,RESTANI STWY,Mabie,0
-10,5,134,CRAVATH ST,Flemington,0
-11,5,34,LUSK ST,Homestead,0
-12,5,92,NAUTILUS DR,Hamilton,0
-13,5,138,NIDO AVE,Midway South,0
-14,5,161,ELMIRA ST,McIntosh,0
-15,5,15,NELSON RISING LN,Brices Creek,0
+1,1,164,GOLDEN BELL WAY,Vineyards,1
+2,1,4,19TH AVE,Keystone,1
+3,2,155,STANLEY ST,Myrtle Creek,0
+4,2,97,TRADER VIC ALY,Tarpon Springs,0
+5,2,24,SAN JOSE AV ON RAMP,Twin Oaks,0
+6,3,41,MARSHALL ST,New London,0
+7,4,179,CRAUT ST,Augusta,0
+8,4,50,CONKLING ST,Westboro,0
+9,5,72,WREN LN,Eldorado,0
+10,5,103,LUNADO WAY,Hopewell,0
+11,6,41,UTAH ST,Fruitland,0
+12,7,131,MARIETTA DR,Renton,1
+13,7,115,BONNIE BRAE LN,Beaver Creek,1
+14,1,77,LETTUCE LN,Schaller,1
+15,2,60,MORELAND ST,Scotland,0
+16,3,54,MIRANDO WAY,Etowah,0
+17,3,16,27TH AVE,Pocono Ranch Lands,0
+18,4,153,SANTA RITA AVE,Pine Valley,0
+19,4,43,HILL POINT AVE,Ransom Canyon,0
+20,5,118,RUSS ST,Coffeeville,0
+21,5,63,AVENUE F,Ramireno,0
+22,6,77,BEEMAN LN,New Market,0
+23,7,151,CASTILLO ST,North Amityville,1
+24,7,89,UPPER SERVICE RD,Homeland,1
+25,7,77,MENOHER LN,Rockaway Beach,1
+26,1,20,VICKSBURG ST,Xenia,1
+27,1,102,CLOUD CIR,Bertsch-Oceanview,1
+28,1,183,NIAGARA AVE,Wallingford Center,1
+29,2,160,TEMESCAL TER,East Germantown,0
+30,3,129,LONGVIEW CT,Doran,0
+31,4,162,KEARNY LN,Johnstown,0
+32,4,140,STANTON ST,Harmony,0
+33,4,81,NORMANDIE TER,Rantoul,0
+34,5,83,MARENGO ST,Ordway,0
+35,6,56,MISSOURI ST,McAdenville,0
+36,6,10,EMERALD LN,Moose Pass,0
+37,7,199,MARNE AVE,De Lamere,1
